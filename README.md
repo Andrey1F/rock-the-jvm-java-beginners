@@ -1,2 +1,2 @@
-# rock-the-jvm-java-beginners
+# rock-the-jvm-scala-beginners
 scala beginners course
